@@ -1,6 +1,4 @@
-Site simples, pensado desde o início por minha autoria. <br>
-O intuito era apenas testar a quesão da media querry e começar a trabalhar com flex e grid layout. <br>
-commitei apenas na ´main` por se tratar de um projeto pessoal.<br>
+apenas mais uma pagina do meu começo 
 <br>
 <a href="https://victorhugo-sys.github.io/projeto_artdeco/">projeto art deco</a>
  
